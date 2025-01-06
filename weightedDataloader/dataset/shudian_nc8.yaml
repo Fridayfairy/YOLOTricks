@@ -1,0 +1,7 @@
+train: /data1/datasets/shudian/train_nc8.txt
+# train: /data1/datasets/shudian/train_finetune.txt
+val: /data1/datasets/shudian/val_nc8.txt
+
+nc: 8  # 替换为你的类别数量
+
+names: ['fire', 'smoke', 'niaochao', 'dxyw', 'sgjx', 'caigangwa', 'fangchenwang', "tadiao"]
